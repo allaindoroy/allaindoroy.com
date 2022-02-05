@@ -1,0 +1,192 @@
+/* Defaults & resets */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 18px;
+	line-height: 26px;
+	background-image: url(../images/black-and-white-blur-blurred-computer-wallpaper-preview.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-image: 
+	
+
+
+}
+
+h2 {
+	color: black;
+	font-family: bold;
+	background-color: orange;
+	
+
+}
+
+p {
+	color: white;
+	font-family: 'Azeret Mono', monospace;
+	
+
+}
+
+
+a {
+	text-decoration: none;
+}
+
+div.content {
+	padding: 0 20px;
+}
+
+
+div.content-wrapper {
+	margin: auto;
+	padding-top: 50px 20px;
+	width: 1000px;
+	max-width: 100%;
+	
+
+
+}
+div.content-wrapper .subtitle {
+
+}
+/*Banner*/
+div.top {
+	width: 100%;
+	height: 250px;
+	background-color: wheat;
+	background-image: url(../images/banner.jpg);
+	background-position:center;
+	background-size: cover;
+
+	
+
+}
+
+div.top h1 {
+	width: 100%;
+	height: 1000px;
+	text-align: center;
+	line-height: 200px;
+	color: #FF4500;
+	margin: 10px;
+	font-family: 'Abril Fatface', cursive;
+
+
+}
+
+/*menu*/
+
+div.menu {
+	width: 100%;
+	background: brown;
+	position: sticky;
+	top: 0;
+
+}
+
+div.menu ul {
+	width: 100%;
+	margin: auto;
+	list-style: none;
+	padding: 0;
+
+}
+
+div.menu ul li {
+	display: inline-block;
+	
+}
+
+div.menu ul li a  {
+	display: inline-block;
+	padding: 15px 30px 15px 30px;
+	color:#ffffff;
+
+}
+
+div.menu ul li a:hover, div.menu ul li a.current {
+	color: #222222;
+	background-color: #ffffff;
+	
+}
+
+/*Footer*/
+
+div.bottom {
+	
+	color: white;
+	height: 20px;
+	width: auto;
+	
+}
+
+.copyright p {
+	color: white;
+}
+
+div.bottom .copyright {
+	margin: auto;
+	height: 20px;
+	width: 100%;
+	padding: 100px 
+	max-width: 100%;
+
+
+	
+}
+
+div.bottom .copyright p {
+	text-align: center;
+	;
+	
+
+}
+
+div#contactform {
+	display: block;
+}
+
+
+input, textarea, label {
+	border: 1px solid #eaeaea;
+	padding: 4px 10px;
+	border-radius: 2px;
+	line-height: 30px;
+	width: 300px;
+	font-family: arial;
+	font-size: 15px;
+	color: black;
+	background-color: lightgray;
+
+
+}
+
+textarea {
+	height: 100px;
+}
+
+input[type="checkbox"], input[type="submit"] {
+	width: auto;
+}
+
+th {
+	color: white;
+	font-family: 'Azeret Mono', monospace;
+}
+
+td {
+	color: white;
+	font-family: 'Azeret Mono', monospace;
+}
+}
+
+li {
+	color: white;
+	font-family: 'Azeret Mono', monospace;
+}
+
+
+
