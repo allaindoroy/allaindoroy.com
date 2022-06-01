@@ -1,1 +1,0 @@
-# allaindoroy.com
